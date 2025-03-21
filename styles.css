@@ -68,6 +68,9 @@ button {
     margin-top: -85px;
     background-color: #9499EA;
     border: none;
+    cursor: pointer;
+
+
 }
 
 h1 {
